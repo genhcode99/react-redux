@@ -7,7 +7,7 @@ function Home () {
   }
   function onSubmit(event){
     event.preventDefault();
-    console.log(text);
+    setText("");
   }
 
 //-----------------------------------------------------------------------------------------------
